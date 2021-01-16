@@ -1,6 +1,4 @@
-### Hi there, I'm Chad - aka cbeach512 👋
-
-## I'm a husband, father, engineer and gamer!
+### Hi there! I'm Chad, a husband, father, engineer and gamer!
 
 - 🔭 I’m currently working on Terraform and Ansible orchestration
 - 🌱 I’m currently learning how to containerize and optomize as much as possible
@@ -11,6 +9,8 @@
   - 🦸‍♂️ Increase leadership skills
   - 🤜🤛 Grow team
 - ⚡ Fun fact: The force is strong with my kids
+
+---
 
 ### Languages and Tools:
 
@@ -24,3 +24,13 @@
 [<img align="left" alt="python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" />](https://www.python.org/)
 [<img align="left" alt="kubernetes" width="26px" src="https://symbols.getvecta.com/stencil_86/46_kubernetes-icon.a1ae2d2dd6.svg" />](https://kubernetes.io/)
 [<img align="left" alt="docker" width="26px" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" />](https://www.docker.com/)
+
+<br/>
+
+---
+
+[![Chad's github stats](https://github-readme-stats.vercel.app/api?username=cbeach512&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbeach512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
