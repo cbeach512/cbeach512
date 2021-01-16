@@ -1,9 +1,10 @@
 ### Hi there! I'm Chad, a husband, father, engineer and gamer!
 
 - 🔭 I’m currently working on Terraform and Ansible orchestration
-- 🌱 I’m currently learning how to containerize and optomize as much as possible
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with DevOps best practices
+- 👨‍🎓 I’m always increasing knowledge in:
+  - 🐳 containerization and optomization
+  - 🤖 automation and DevOps
+- 🤔 I’m looking for help with DBA stuff
 - 🥅 2021 Goals:
   - 🧮 Better work/life balance
   - 🦸‍♂️ Increase leadership skills
