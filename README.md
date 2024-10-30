@@ -4,10 +4,12 @@
 - 👨‍🎓 I’m always increasing knowledge in:
   - 🐳 containerization and optomization
   - 🤖 automation and DevOps
-- 🥅 2024 Goals:
+- 📅 2024 Goals:
   - 🧮 More DevOps less Admin
   - 🦸‍♂️ Increase leadership skills
   - 🤜🤛 Grow team
+  - 🧠 Learn more about AI
+  - 🌐 Dive deeper into AWS
 - ⚡ Fun fact: The force is strong with my kids
 
 ---
