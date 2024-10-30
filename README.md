@@ -1,4 +1,6 @@
-### Hi there! I'm Chad, a husband, father, engineer and gamer!
+# Chad Beach
+
+## Hi there! I'm Chad, a husband, father, engineer and gamer!
 
 - 🔭 I’m currently working on Terraform and Ansible orchestration
 - 👨‍🎓 I’m always increasing knowledge in:
