@@ -34,6 +34,8 @@ Hi there! I'm Chad, a husband, father, engineer and gamer!
 [<img align="left" alt="vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://www.vim.org/)
 [<img align="left" alt="cursor" width="26px" src="https://avatars.githubusercontent.com/u/126759922?v=4" />](https://www.cursor.com/)
 
+<br/>
+
 ---
 
 [![Chad's github stats](https://github-readme-stats.vercel.app/api?username=cbeach512&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
