@@ -4,9 +4,8 @@
 - 👨‍🎓 I’m always increasing knowledge in:
   - 🐳 containerization and optomization
   - 🤖 automation and DevOps
-- 🤔 I’m looking for help with DBA stuff
-- 🥅 2021 Goals:
-  - 🧮 Better work/life balance
+- 🥅 2024 Goals:
+  - 🧮 More DevOps less Admin
   - 🦸‍♂️ Increase leadership skills
   - 🤜🤛 Grow team
 - ⚡ Fun fact: The force is strong with my kids
