@@ -38,8 +38,8 @@ Hi there! I'm Chad, a husband, father, engineer and gamer!
 
 ---
 
-[![Chad's github stats](https://github-readme-stats.vercel.app/api?username=cbeach512&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chad's github stats](https://github-readme-stats-orcin-delta-51.vercel.app/api?username=cbeach512&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cbeach512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-orcin-delta-51.vercel.app/api/top-langs/?username=cbeach512&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
