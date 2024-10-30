@@ -21,7 +21,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://github.com/romkatv/powerlevel10k)
 [<img align="left" alt="Terraform" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/terraform.svg" />](https://www.terraform.io/)
 [<img align="left" alt="Ansible" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ansible/ansible.png" />](https://www.ansible.com/)
-[<img align="left" alt="concourse ci" width="26px" src="https://concourse-ci.org/images/trademarks/concourse-black.png" />](https://concourse-ci.org/)
+[<img align="left" alt="concourse ci" width="26px" src="https://user-images.githubusercontent.com/27746614/58619932-cb22dc00-82bd-11e9-8b79-c342397502c7.png" />](https://concourse-ci.org/)
 [<img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />](https://www.python.org/)
 [<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />](https://kubernetes.io/)
 [<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />](https://www.docker.com/)
