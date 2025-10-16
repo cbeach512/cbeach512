@@ -4,9 +4,9 @@ Hi there! I'm Chad, a husband, father, engineer and gamer!
 
 - 🔭 I’m currently working on Terraform and Ansible orchestration
 - 👨‍🎓 I’m always increasing knowledge in:
-  - 🐳 containerization and optomization
+  - 🐳 containerization and optimization
   - 🤖 automation and DevOps
-- 📅 2024 Goals:
+- 📅 Current Goals:
   - 🧮 More DevOps less Admin
   - 🦸‍♂️ Increase leadership skills
   - 🤜🤛 Grow team
@@ -34,7 +34,7 @@ Hi there! I'm Chad, a husband, father, engineer and gamer!
 [<img align="left" alt="vim" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" />](https://www.vim.org/)
 [<img align="left" alt="cursor" width="26px" src="https://avatars.githubusercontent.com/u/126759922?v=4" />](https://www.cursor.com/)
 
-<br/>
+<br/><br/>
 
 ---
 
